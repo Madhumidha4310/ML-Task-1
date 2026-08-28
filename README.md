@@ -111,15 +111,18 @@ Online-Education-Student-Performance/
 ├── Student_droupout_risk.ipynb
 └── README.md
 ```
+
 ---
 
 ## 🚀 How to Run
 
+```text
 Clone the repository.
 Install the required Python libraries.
 Open the Jupyter Notebook or Google Colab.
 Upload the dataset.
 Run the notebook cells.
+```
 
 ---
 
